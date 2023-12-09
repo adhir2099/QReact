@@ -1,6 +1,6 @@
-<h1 align="center"> 👋 Reac QR code generator</h1>
+<h1 align="center"> 👋 React QR code generator</h1>
 
-# Reac QR code generator
+# React QR code generator
 Generate QR codes with React, download it and use it
 
 ## Frontend
